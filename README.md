@@ -4,12 +4,6 @@
 💻 Experience with **C#, Unity, Python, and game systems programming**.  
 🚀 Always learning new tech and improving my problem-solving skills.
 
-🔧 Tech Stack & Skills
-- **Languages:** C, C#, Python, C++, Java, JavaScript, HTML
-- **Game Development:** Unity, Unreal Engine 
-- **Tools:** Visual Studio, Visual Studio Code, Powershell
-- **Project Management:** Notion, Trello
-
 <!-- Profile View -->
 ![](./profile-3d-contrib/profile-night-view.svg)
 
