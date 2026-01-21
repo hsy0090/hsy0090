@@ -59,8 +59,7 @@
 
 #### IDEs
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Visual Studio 2022](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202022-9D00FF.svg?logo=vsc&logoColor=white)](#)
-[![Visual Studio 2018](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202018-9D00FF.svg?logo=vsc&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20-9D00FF.svg?logo=vsc&logoColor=white)](#)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
